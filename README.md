@@ -9,7 +9,7 @@
 # Current Projects
   ## Game Backend Platform
     Building a multiplayer backend platform to explore networking, databases, architecture and AI integration.
-  ## AI developer Assistant
+  ## AI Developer Assistant
     Creating an AI assistant capable of understanding project documentation, codebase and development workflows.
   ## Messenger
     Building a real-time messaging platform to learn networking, authentication and scalable backend architecture.
@@ -33,7 +33,7 @@
       - Develop AI-powered developer tools
       - Learn system design
       - Improve software architecture skills
-      - Buld a strong engineering portfolio
+      - Build a strong engineering portfolio
 # Contact
   Email: set.97@mail.ru
 
