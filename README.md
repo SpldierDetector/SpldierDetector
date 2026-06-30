@@ -45,6 +45,7 @@
       <li>Improve software architecture skills</li>
       <li>Buld a strong engineering portfolio</li>
     </ul>
+<br>
 <h2>Contact</h2>
   <address>
   Email: set.97@mail.ru
